@@ -73,7 +73,7 @@ const Upload = () => {
     <div className="min-h-screen bg-gray-100">
       <nav className="bg-white shadow-md">
         <div className="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
-          <h1 className="text-2xl font-bold libertinus-serif-bold">Upload Video</h1>
+          <h1 className="text-2xl font-bold libertinus-serif-bold">UPLOAD VIDEO</h1>
           <button
             onClick={() => navigate('/dashboard')}
             className="bg-gray-500 text-white px-4 py-2 rounded hover:bg-gray-600"
