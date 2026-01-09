@@ -64,6 +64,7 @@ npm run dev
 ```
 
 ## 📁 Project Structure
+```
 video-platform/
 ├── backend/
 │   ├── src/
