@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Libertinus+Serif:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
+
+@import "tailwindcss";
+
+.libertinus-serif-bold {
+  font-family: "Libertinus Serif", serif;
+  font-weight: 700;
+  font-style: normal;
+  letter-spacing:0.05em;
+}
