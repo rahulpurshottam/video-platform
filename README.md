@@ -89,6 +89,8 @@ video-platform/
 │   │   └── main.jsx
 │   ├── public/
 │   └── package.json
+├── .gitignore
+└── README.md
 
 ```
 
